@@ -1,1 +1,3 @@
-# INFCoin-Project-
+# INFCoin-Project
+
+### Description
