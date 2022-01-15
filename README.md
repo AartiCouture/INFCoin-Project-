@@ -27,13 +27,17 @@ Next, we deployed our INFCoin contract using our token address.
 
 <img width="1435" alt=" INFCOIN contract w:token address" src="https://user-images.githubusercontent.com/87285522/149603964-be6c4b31-a067-4cd6-a7af-096edb3beab2.png">
 
-Once the INFCoin contract was deployed, we checked our ganace account balance. 
+Once the INFCoin contract was deployed, we checked our ganache account balance. 
 
 <img width="1434" alt="check balance of Ganache acct" src="https://user-images.githubusercontent.com/87285522/149603985-632991f2-429d-4cfa-94c9-e34f471f0c02.png">
 
-In the final step we checked the inflation and checked to see our tokens increased. 
+In the next step we checked the inflation and checked to see our tokens increased. 
 
 <img width="1431" alt="check inflation and check adjusted balance" src="https://user-images.githubusercontent.com/87285522/149604092-b83b3ecc-5a7d-4083-8134-7ead5a2c987b.png">
+
+Finally, we added INFCoin to our metamask wallet.
+
+
 
 
 Inflation Coin is a store of value for you fiat currency that hedges against inflation, something your bank does not do. 
