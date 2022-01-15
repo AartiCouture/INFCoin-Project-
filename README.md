@@ -2,15 +2,15 @@
 
 Inflation, by definition, is a general increase in prices and fall in the purchasing value of money. In the last year alone, inflation has risen by 7% according to the Consumer Price Index, or CPI.  
 
-For our project, we created an ERC20 coin called INFCoin. INFCoin, or Inflation Coin, uses the percent change in CPI to adjust the amount of the holder's tokens. The tokens are added or subtracted monthly, depending on if inflation increases or decreases.
+For our project, we created an ERC20 coin called INFCoin. We also created an INFCrowdSale to allow for users to purchase of tokens.  INFCoin, or Inflation Coin, uses the percent change in CPI to adjust the amount of the holder's tokens. The tokens are added or subtracted monthly, depending on if inflation increases or decreases.
 
-Our coin is a proof of concept as we still need to add an oracle to check inflation  programmatically instead of manually. 
+For INFCoin, we created an ERC20 coin that includes a check inflation function.  The check inflation function checks for the percent change in inflation and then loops though an array of the current token holders, to add or subtract the tokens based on the inflation rate to each token holder’s balance. This coin is a hedge against inflation. 
 
-For INFCoin, we created an ERC20 coin that includes a check inflation function.  The check inflation function checks for the percent change in inflation and then adds or subtracts the tokens based on the inflation rate to each token holder’s balance. This coin is a hedge against inflation. 
+Our coin is currently a proof of concept, as we still need to add an oracle to check inflation programmatically instead of manually. 
 
 To demonstrate: 
 
-First,  deployed the INFCoin sale.
+First, we deployed the INFCoin sale.
 
 <img width="1429" alt="INFCoin Deployer" src="https://user-images.githubusercontent.com/87285522/149602309-bd6daffd-556d-4e04-891a-e51aadb78f01.png">
 
@@ -32,3 +32,8 @@ Once the INFCoin contract was deployed, we checked our ganace account balance.
 <img width="1434" alt="check balance of Ganache acct" src="https://user-images.githubusercontent.com/87285522/149603985-632991f2-429d-4cfa-94c9-e34f471f0c02.png">
 
 In the final step we checked the inflation and checked to see our tokens increased. 
+
+<img width="1431" alt="check inflation and check adjusted balance" src="https://user-images.githubusercontent.com/87285522/149604092-b83b3ecc-5a7d-4083-8134-7ead5a2c987b.png">
+
+
+Inflation Coin is a store of value for you fiat currency that hedges against inflation, something your bank does not do. 
