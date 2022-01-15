@@ -9,3 +9,6 @@ Our coin is a proof of concept as we still need to add an oracle to check inflat
 For INFCoin, we created an ERC20 coin that includes a check inflation function.  The check inflation function checks for the percent change in inflation and then adds or subtracts the tokens based on the inflation rate to each token holder’s balance. This coin is a hedge against inflation. 
 
 To demonstrate: 
+
+<img width="1429" alt="INFCoin Deployer" src="https://user-images.githubusercontent.com/87285522/149602309-bd6daffd-556d-4e04-891a-e51aadb78f01.png">
+We deployed the INFCoin sale
