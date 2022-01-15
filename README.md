@@ -19,4 +19,4 @@ Then, we deployed the contract for the crowdsale using the token sale address ge
 
 <img width="1433" alt="INFCoin Crowdsale w:Token sale address" src="https://user-images.githubusercontent.com/87285522/149603764-3ef5531c-46f5-4fa2-a573-b951707bca65.png">
 
-Following this, we 
+Following this, we purchased 1 ether's worth of tokens to our ganache wallet. 
