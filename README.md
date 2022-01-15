@@ -23,5 +23,8 @@ Following this, we purchased 1 ether's worth of tokens to our ganache wallet.
 
 <img width="1432" alt="Buy Tokens at Ganache Address" src="https://user-images.githubusercontent.com/87285522/149603880-ccfaa5ef-bc33-45e5-b156-b7d4d08e704b.png">
 
-Next, we deployed our INFCoin contract using our token address and checked the balance of our wallet. 
+Next, we deployed our INFCoin contract using our token address.
 
+<img width="1435" alt=" INFCOIN contract w:token address" src="https://user-images.githubusercontent.com/87285522/149603964-be6c4b31-a067-4cd6-a7af-096edb3beab2.png">
+
+Once the INFCoin contract was deployed, we checked our ganace account balance. 
